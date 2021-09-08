@@ -1,0 +1,31 @@
+  body {
+    background-color: #eaf6f6;
+  }
+
+  hr {
+    background-color: white;
+    /* border-style: dotted none none; */
+    border-style: none;
+    border-top-style: dotted;
+    border-color: grey;
+    border-width: 5px;
+    width: 5%;
+  }
+ h1{
+   color: #66BFBF;
+ }
+ h3{
+      color: #66BFBF;
+      /* text-align: center; */
+       /* text-decoration: line-through; */
+  /* text-shadow: 2px 2px; */
+ }
+ /* class selector */
+ /* .myclass{
+   color: blue;
+   #7F7C82
+ } */
+input:hover{
+  background-color:black;
+  color: white;
+}
